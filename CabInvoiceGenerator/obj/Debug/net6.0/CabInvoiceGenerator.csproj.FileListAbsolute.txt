@@ -1,0 +1,15 @@
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.exe
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.deps.json
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.runtimeconfig.json
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.dll
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\ref\CabInvoiceGenerator.dll
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\net6.0\CabInvoiceGenerator.pdb
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.AssemblyReference.cache
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfo.cs
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.dll
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\ref\CabInvoiceGenerator.dll
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.pdb
+C:\Users\suraj\source\repos\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.genruntimeconfig.cache
